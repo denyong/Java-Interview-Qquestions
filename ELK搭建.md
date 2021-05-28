@@ -9,8 +9,6 @@ kibana:7.0.1
 logstash:7.8.1
 ```
 
-
-
 ## elasticsearch部署
 
 **获取镜像**
